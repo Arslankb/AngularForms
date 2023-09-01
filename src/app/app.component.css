@@ -1,0 +1,17 @@
+/* .custom-select{
+    width: 100%;
+    height: 40px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 5px;
+} */
+
+.alert-danger{
+    background-color: #f44336;
+}
+
+.alert{
+    color: white;
+    margin-bottom: 15px;
+    text-align: left;
+}
